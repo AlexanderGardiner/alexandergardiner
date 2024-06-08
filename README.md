@@ -13,6 +13,8 @@ Let's collaborate to turn your vision into reality and create impactful digital 
 #
 Front End
 
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="25"><!---->
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/-DaisyUI-FF9E2C?style=flat" height="25"><!---->
@@ -22,8 +24,6 @@ Front End
 #
 Back End
 
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="25"><!---->
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="25"><!---->
