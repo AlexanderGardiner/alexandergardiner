@@ -1,12 +1,10 @@
 # ⌨️ Alex Gardiner 
 ### Hi!
-I'm an aspiring web developer with a deep desire to craft immersive digital experiences. I design and develop web applications from the ground up, selecting the best technologies to ensure top-notch performance and user experience. 
+I'm an aspiring developer with a desire to craft immersive digital experiences. I design and develop web applications from the ground up, selecting technologies to ensure top-notch performance and user experience. 
 
-My approach is rooted in user-centric design principles, where all aspects are carefully considered to deliver a seamless and intuitive experience. From frontend aesthetics to backend functionality, I strive for excellence at every stage of development.
+The foundation of my approach is in user-centric design principles, where all aspects are considered to deliver a seamless and intuitive experience. From aesthetics to functionality, my goal is excellence at every stage of development.
 
-With a keen eye for detail and a passion for innovation, I integrate complex functionalities into web-friendly formats, enhancing usability without compromising performance. My projects reflect a dedication to staying ahead of the curve, adopting the latest techniques and methodologies to deliver cutting-edge solutions.
-
-Let's collaborate to turn your vision into reality and create impactful digital experiences.
+With an eye for detail and a passion for innovation, I integrate complex functionalities into web-friendly formats, enhancing usability without compromising performance. 
 
 ---
 ### Languages, Tools and Frameworks:
