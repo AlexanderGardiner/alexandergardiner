@@ -1,10 +1,12 @@
-# ⌨️ Alex Gardiner 
+# Alex Gardiner 
 ### Hi!
-I'm an aspiring developer with a desire to craft immersive digital experiences. I design and develop web applications from the ground up, selecting technologies to ensure top-notch performance and user experience. 
+I’m a student at UC Davis, pursuing a dual major in Computer Science & Engineering and Cinema & Digital Media. I’m passionate about programming across domains, with work spanning robotics software, AI models, and web applications.
 
-The foundation of my approach is in user-centric design principles, where all aspects are considered to deliver a seamless and intuitive experience. From aesthetics to functionality, my goal is excellence at every stage of development.
+I approach every project with the user in mind, creating experiences that are functional, intuitive, and built to be maintainable and scalable.
 
-With an eye for detail and a passion for innovation, I integrate complex functionalities into web-friendly formats, enhancing usability without compromising performance. 
+Additionally, I’m always excited to explore new technologies and take on projects that push me to grow as a developer.
+
+Check out my portfolio and resume at https://alexandergardiner.com. You can also find my contact info there, so don’t hesitate to reach out!
 
 ---
 ### Languages, Tools and Frameworks:
@@ -32,9 +34,9 @@ Robotics
 #
 Artificial Intelligence
 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="25"><!---->
 <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="25"><!---->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"><!---->
 #
 Tools
 
