@@ -1,6 +1,6 @@
 # Alex Gardiner 
 ### Hi!
-I’m a student at UC Davis, pursuing a major in Computer Science & Engineering and Cinema. I’m passionate about programming across domains, with work spanning robotics software, AI models, and web applications.
+I’m a student at UC Davis, pursuing a major in Computer Science & Engineering. I’m passionate about programming across domains, with work spanning robotics software, AI models, and web applications.
 
 I approach every project with the user in mind, creating experiences that are functional, intuitive, and built to be maintainable and scalable.
 
